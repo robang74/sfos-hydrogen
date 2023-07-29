@@ -1,5 +1,11 @@
 This is a wrapper around the [matrix](https://matrix.org) client [hydrogen](https://github.com/vector-im/hydrogen-web) for [SailfishOS](https://sailfishos.org)
 
+* [hydrogen-web official repository](https://github.com/vector-im/hydrogen-web)
+
+* [hydrogen-web fork further developed](https://github.com/b100dian/hydrogen-web)
+
+* [repositories collection for SFOS](https://github.com/hydrogen-sailfishos)
+
 Issues, bug reports and feature requests are welcome in the issue tab above.
 
 If you want to help developing, you can either head over to hydrogen, if its specifically about the functionality of hydrogen,
